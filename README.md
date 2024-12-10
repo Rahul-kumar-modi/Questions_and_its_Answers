@@ -7,6 +7,11 @@ Q.Async Array Mapping:
 Q.ColorBoxes:-
 Color the boxes with random color everytime
 
+Q.BussinessNameGenerator:-/* Create a business name generator by combining list of adjectives and shop name and another word
+Adjectives:  Crazy, Amazing, Fire 
+Shop Name:  Engine, Foods, Garments
+Another Word:  Bros, Limited , Hub
+
 Q.CalculateTotal:-The Shopping Cart Totalizer:
     You are working on an e-commerce website, and you need to calculate the total cost of items in the shopping cart. Implement a function named calculateTotal that takes an array of products with prices and quantities and returns the total cost.
     
