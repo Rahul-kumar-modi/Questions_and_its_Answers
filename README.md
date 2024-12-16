@@ -1,3 +1,7 @@
+Q.CalculateTotal:-
+The Shopping Cart Totalizer:
+    You are working on an e-commerce website, and you need to calculate the total cost of items in the shopping cart. Implement a function named calculateTotal that takes an array of products with prices and quantities and returns the total cost.
+
 Q.The Array Filterer:
     You are building a search feature for your e-commerce site. Write a function named filterProducts that takes an array of product objects and a filter criterion. The function should return a new array containing only the products that match the filter criterion.
 
