@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smooth Scroll to Top Example</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .content {
+            height: 2000px;
+            padding: 20px;
+            background: linear-gradient(to bottom, #f0f0f0, #c0c0c0);
+        }
+        .scroll-to-top {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+            font-size: 16px;
+        }
+        .scroll-to-top:hover {
+            background-color: #22c519;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>Welcome to the Smooth Scroll Example</h1>
+        <p>Scroll down the page and then use the "Scroll to Top" button to smoothly scroll back to the top.</p>
+    </div>
+    <button class="scroll-to-top" onclick="smoothScrollToTop()">Scroll to Top</button>
+
+    <script>
+        function smoothScrollToTop() {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        }
+    </script>
+</body>
+</html>
+
