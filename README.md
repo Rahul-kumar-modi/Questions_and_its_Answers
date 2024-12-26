@@ -1,9 +1,11 @@
+Q.The Mirror Mirror:
+   Imagine you have a string, and you need to create a new string that is a mirror image of the original. Write a function that appends the reversed version of the original string to itself.
+
 Q.The Double Trouble:
    You are tasked with writing a function that doubles each element in an array. However, there's a catch: if the array contains consecutive duplicate elements, only double one of them.
 
 Q. The Magical Sorting Hat:
    Imagine you are creating a magical sorting hat for a wizard office. Implement a JavaScript function that takes an array of employees names and assigns them to one of the three roles (Web developer (length less than 6), Designer(length greater than 6), or rest Salesman based on the length of their names in office.
-
 
 Q.The Window Scroller:
     You are developing a single-page application with a smooth scrolling effect. Implement a function named smoothScrollToTop that smoothly scrolls the window to the top when called.
