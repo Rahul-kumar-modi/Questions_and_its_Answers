@@ -1,3 +1,6 @@
+Q. The Vowel Counter:
+   You need to create a function that counts the number of vowels in a given string. Consider both uppercase and lowercase vowels.
+
 Q.The Mirror Mirror:
    Imagine you have a string, and you need to create a new string that is a mirror image of the original. Write a function that appends the reversed version of the original string to itself.
 
@@ -9,6 +12,9 @@ Q. The Magical Sorting Hat:
 
 Q.The Window Scroller:
     You are developing a single-page application with a smooth scrolling effect. Implement a function named smoothScrollToTop that smoothly scrolls the window to the top when called.
+
+Q.The Sum Selector:
+   You are working on a function that should sum all numbers in an array until it encounters a negative number. Write a function that performs this summation.
 
 Q.CalculateTotal:-
 The Shopping Cart Totalizer:
