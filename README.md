@@ -1,3 +1,6 @@
+Q. The Vowel Counter:
+   You need to create a function that counts the number of vowels in a given string. Consider both uppercase and lowercase vowels.
+
 Q.The Mirror Mirror:
    Imagine you have a string, and you need to create a new string that is a mirror image of the original. Write a function that appends the reversed version of the original string to itself.
 
