@@ -35,7 +35,10 @@ Q.Async Array Mapping:
    Write an asynchronous function that takes an array of numbers and returns a new array of Promises where each number is multiplied by 2 after a delay of 500 milliseconds.
 
 Q.ColorBoxes:-
-Color the boxes with random color everytime
+Color the boxes with random color everytime.
+
+Q.Factorial:-
+Finding factorial.
 
 Q.BussinessNameGenerator:-/* Create a business name generator by combining list of adjectives and shop name and another word
 Adjectives:  Crazy, Amazing, Fire || Shop Name:  Engine, Foods, Garments  || Another Word:  Bros, Limited , Hub
